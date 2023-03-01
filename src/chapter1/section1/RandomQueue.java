@@ -1,3 +1,5 @@
+package src.chapter1.section1;
+
 import edu.princeton.cs.algs4.StdRandom;
 
 import java.util.Iterator;

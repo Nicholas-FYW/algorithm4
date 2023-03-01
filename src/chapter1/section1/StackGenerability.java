@@ -1,3 +1,5 @@
+package src.chapter1.section1;
+
 import java.util.Stack;
 
 /**

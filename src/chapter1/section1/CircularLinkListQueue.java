@@ -1,3 +1,5 @@
+package src.chapter1.section1;
+
 public class CircularLinkListQueue<T> {
     private Node tail = null;
     private int n = 0;

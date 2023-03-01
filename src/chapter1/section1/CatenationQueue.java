@@ -1,3 +1,5 @@
+package src.chapter1.section1;
+
 /**
  * Created by Nicholas on 2022/12/28 17:15.
  */
